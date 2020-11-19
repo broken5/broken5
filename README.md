@@ -11,3 +11,7 @@
 <a href="https://github.com/broken5/WebAliveScan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broken5&theme=dracula&repo=WebAliveScan" />
 </a>
+
+## 学习路径
+- 2018.10-2019.05 WEB安全
+- 2019.05-now     漏洞挖掘
